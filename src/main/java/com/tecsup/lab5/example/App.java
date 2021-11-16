@@ -14,6 +14,7 @@ public class App {
     {
         Persona nuevo = new Persona("Jorge");
         System.out.println( "Hola "+nuevo.getNombre());
+        System.out.println( "Hola from Jenkins");
     }
 
     
